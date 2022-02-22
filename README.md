@@ -6,4 +6,4 @@ Bash CLI utility
 
 Name | Description
 ---|---
-`.template.sh` | Minimal safe Bash script template from https://betterdev.blog/minimal-safe-bash-script-template/
+`.template.sh` | [Minimal safe Bash script template - Better Dev](https://betterdev.blog/minimal-safe-bash-script-template/)
